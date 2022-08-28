@@ -1,0 +1,1 @@
+web: gunicorn --worker-tmp-dir /dev/shm dermaproBE.wsgi --log-level debug --log-file -

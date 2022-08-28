@@ -1,0 +1,14 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+env
+venv/
+venv2/
+inception_v4_demo/
+media/
+*.jpg
+*.png
+.DS_Store
